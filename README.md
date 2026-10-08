@@ -129,3 +129,9 @@ Protocol parsing, normalized state, and resolver decisions should remain distinc
 This repository is a documentation-only case study. It does not publish oracle private keys, production RPC credentials, proprietary program source, sensitive internal wallet addresses, client-specific infrastructure, or private database contents.
 
 The original implementation remains private.
+
+## Documentation
+
+- [Architecture](docs/architecture.md)
+- [Engineering Decisions](docs/engineering-decisions.md)
+- [Security & Public Disclosure Boundary](docs/security-and-boundaries.md)
